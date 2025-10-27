@@ -8,9 +8,10 @@ Each project helped me understand the real beauty of coding — from logic to st
 ---
 
 ## Projects Included
+- **To-Do List App** — Manage tasks with ease.
 - **Calculator** — Perform basic arithmetic operations.
 - **Password Generator** — Create strong and random passwords.
-- **Rock-Paper-Scissors** — Classic fun game with computer logic.
+
 
 ---
 
